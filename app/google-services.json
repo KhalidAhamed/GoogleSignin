@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216945399489",
+    "project_id": "poetic-flight-401712",
+    "storage_bucket": "poetic-flight-401712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216945399489:android:0be512e9b6efdae615a640",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtB3L088UMq3-s6YxuQeV92L3O_3WnTCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
